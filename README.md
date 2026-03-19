@@ -98,6 +98,6 @@ These skills help you:
 ## Resources
 
 - **Presentation**: See `spec-driven-development/presentation.md` for the full Spec-Driven Development presentation
-- **SpecKit**: See `../mercanlyapp/speckit/` for specification workflow tools
+- **SpecKit**: [https://github.com/github/spec-kit](github)
 - **Kiro**: Visit [kiro.dev](https://kiro.dev) for EARS requirements syntax
 
